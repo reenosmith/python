@@ -1,6 +1,8 @@
 # Number Guessing Game
 #
+############################
 # March 15 2020 by Rob Smith
+############################
 #
 # Allow the user to guess a number between 1 and 10
 # App allows user to keep guessing until they get the correct number
